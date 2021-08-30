@@ -1,0 +1,25 @@
+* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+    *Variables Forma de almanecer un valor para ser utiliazado mas tarde, se utiliza la abreviatura Var 
+    y se las puede identificar como var // let // const estas dos ultimas pertenecen el ultimo sistema operativo de JS
+    * Strings son bloques de texto definidos entre ' ' (ej var nomegusta = 'tu cara') tu cara es el Strings las Strings 
+    tambien pueden ser numeros pero no serant tomados como tales si no como un Caracter, ej 1 + 1 seria igual a 2 pero '1'+ 1 seria igual a 11 en un strings
+
+    *las funciones son parte importante del lenguaje programacion, al tener un conjunto de Variables, necesitamos aplicarle una funcion
+    para utilizar esos calculos.  Sirven apra agrupar codigo que voy a usar muchas veces, el ellas puedo invocar una funcion.
+    *Argumento es aquello que ubicamos dentro de los parentencis cuando realizamos una funcion por ej. Funtion nombre(Agustina)
+    luego de eso coloco un corchete abierto y cerrado al final donde voy a indicar que hacer con ese argumento dentro de esa Funtion
+    Algo que puedo hacer adentro de la funcion es pedirle un retorno, o sea, que si mediante terminados valores defina cosas entre verdaderas o falsas o determinados argumentos.
+    si el numero es mayor o menor a algo que ocurra una cosa o otra.
+
+    eso tambien puede ser el if que es una declaracion Si B es anterior a A es verdadero pero si B es posterior a todas las demas es Falso, 
+    esa funcion lleva el If y el Else. eso es control de Flujo.
+    Mendiante esta variable podemos hacer preguntas y ejecutar codigos booleanos true y false.
+    es un Condicional, funcion puede menejar si es <18 retorno verdadero o si no retorno Falso. 
+
+    eso es algo que se ejecuta en una funsion siempre que se encuentre entre las llaves 
+
